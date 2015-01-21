@@ -1,2 +1,2 @@
 # application
-this is the place to store all my applications
+Always learn to take responsibility no matter what
